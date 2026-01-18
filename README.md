@@ -18,7 +18,7 @@ AI adoption in Canada is accelerating unevenly across industries and demographic
 Python, Microsoft Excel, Canva (data storytelling and presentation).
 **Outcome**
 Recognized as a Top 5 finalist nationally, validating the project’s analytical rigor, clarity of insights, and relevance to real-world data-driven decision-making.
-<img width="468" height="618" alt="image" src="https://github.com/user-attachments/assets/2c719f05-2702-4bbb-aa17-a3ea13953893" />
+
 **Phase 1 output: Data Handling and report**
 [PHASE_1_Technation.ipynb](https://github.com/user-attachments/files/24697177/PHASE_1_Technation.ipynb)
 [Phase 1_solo_data.pdf](https://github.com/user-attachments/files/24697190/Phase.1_solo_data.pdf)
