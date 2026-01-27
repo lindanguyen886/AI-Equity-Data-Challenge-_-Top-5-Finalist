@@ -13,7 +13,7 @@ AI adoption in Canada is accelerating unevenly across industries and demographic
 
 •	Analyzed national labor market datasets related to industry employment, wages, and AI exposure.
 
-•	Performed data cleaning, transformation, and validation using SQL, Python and Microsoft Excel.
+•	Performed data cleaning, transformation, and validation using Python and Microsoft Excel.
 
 •	Identify trends and disparities.
 
